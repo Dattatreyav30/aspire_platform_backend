@@ -6,7 +6,19 @@ const variables = {
         programs: "Programs",
         habits: "Habits",
         insights: "Insights"
-    }
+    },
+    messages: {
+        sucessfull: "sucessfull",
+        fileNotFound :"No file selected"
+    },
+    requiredSheets: [
+        'programData',
+        'taskData',
+        'skillsData',
+        'departmentData',
+        'designationData',
+        'programOutcomeData',
+    ]
 }
 
 

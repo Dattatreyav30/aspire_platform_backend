@@ -1,5 +1,5 @@
-import express from "express";
-import programRoute from './routes/programRoute';
+const express = require('express')
+const programRoute =require("./routes/programRoute");
 
 const app = express();
    
